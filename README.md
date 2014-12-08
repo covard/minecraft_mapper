@@ -1,6 +1,7 @@
 # MinecraftMapper
 
-TODO: Write a gem description
+This gem is to take a minecraft map (save data), then unzip it and put it into place in your minecraft save file. Starting out this will
+only work for OSX. Maybe move it to Windows also.
 
 ## Installation
 
